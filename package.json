@@ -1,0 +1,10 @@
+{
+  "name": "one-click-start",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node config/start.js",
+    "start:cmd": "node config/start-cmd.js",
+    "start:tabs": "node config/start-tabs.js"
+  }
+}
